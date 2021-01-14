@@ -1,8 +1,14 @@
 .Calculator {
   padding: 20px;
-  color: #fff;
-  border: 2px solid #fff;
+  border: 2px solid #ccc;
   border-radius: 5px;
   margin: 0 10px;
   box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Form input {
+  margin: 0 5px;
 }
